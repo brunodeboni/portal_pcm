@@ -1,0 +1,97 @@
+.perfil_container {
+	margin-top: 10px;
+	margin-left: 10px;	
+}
+#pessoais {
+	margin: 10px 0;
+	padding: 15px;
+	background: #f0f0f0;
+	height: 200px;
+	width: 600px;
+}
+
+#pessoais2 {
+	margin: 10px 0;
+	padding: 15px;
+	background: #f0f0f0;
+	height: 150px;
+	width: 600px;
+}
+
+.div_foto {
+	padding: 15px;
+	width: 100px;
+	height:100%;
+}
+
+.div_pessoais {
+	float: right;
+	margin-top: -200px;
+	width: 420px;
+	height: 100%;
+}
+
+.div_pessoais2 {
+	float: right;
+	margin-top: -160px;
+	width: 420px;
+	height: 100%;
+}
+
+.div_info {
+	margin: 10px 0;
+	padding: 15px;
+	background: #f0f0f0;
+	height: 100%;
+	width: 600px;
+}
+
+.info {
+	font-family:Arial, Tahoma, sans-serif;
+	font-size: 15px;
+	white-space: pre-wrap;
+}
+
+.descricao {
+	font-size: 14px;
+	color: #BBB;
+}
+
+.a_online {
+	color: #000;
+}
+
+.labels {
+	margin-top: 10px;
+}
+
+.labels span {color: #4682B4;}
+
+
+#div_erro{
+	display: none;
+	margin-bottom:15px;
+	width:90%;
+	padding:5px;
+	background:#FEE;
+	color:#900;
+}
+
+#div_publicar span {
+	color: #00688B;
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+}
+
+#div_publicar {
+	color: #4682B4;
+	font-size: 15px;
+}
+
+#unchecked {
+	width: 50px;
+	padding: 5px 10px;
+	background: #EEE;
+	color: grey;
+	border: 1px solid grey;
+}

@@ -1,0 +1,35 @@
+.depoimentos {
+	padding: 5px;
+}
+
+.cb {
+	float: left;
+	width: 15px;
+	height: 30px;
+}
+
+.lista_depoimentos {
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid #0076c6;
+	font-size: 14px;
+	min-width: 610px;
+}
+
+
+#sortable {
+	list-style-type: none;
+	margin: 0; 
+	padding: 0; 
+	width: 100%; 
+}
+
+.depo {
+	font-size: 14px;
+	font-family: Arial;
+	white-space: pre-wrap;
+}
+
+.a_online {
+	color: #000;
+}

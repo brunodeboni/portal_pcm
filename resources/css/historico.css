@@ -1,0 +1,29 @@
+.historico {
+	margin: 5px;
+}
+
+.title_result {
+	padding: 5px;
+	text-align: center;
+	background-color: #82bede;
+	font-weight: bold;
+	color: white;
+	line-height: 30px;
+}
+
+
+.show {
+	border: 1px solid #82bede;
+	padding: 10px;
+	white-space: pre-wrap;
+}
+
+.linhas{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.highlight {
+	background-color: yellow;
+}
+

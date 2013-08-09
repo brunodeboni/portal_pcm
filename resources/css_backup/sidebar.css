@@ -1,0 +1,21 @@
+#sidebar-links-ul{
+	display:block;
+}#sidebar-links-ul li{
+	display:block;
+	border-bottom:1px dotted #9CF;
+}
+#sidebar-links-ul li a{
+	font-size:11px;
+}
+
+
+#sidebar-links {
+	padding:10px 4px;
+	border:1px solid #EEE;
+	background:#F9F9F9;
+}
+	
+/*#sidebar-links-ul li a:hover,#site-footer-links-ul li a:focus{
+	text-decoration:underline;
+}
+*/

@@ -1,0 +1,51 @@
+p {
+	font-size: 14px;
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+h1 {
+	font-size: 16px;
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+.destaque_title {
+	background:#629EBE;
+	padding:8px;
+	padding-left:10px;
+	border-radius:5px 5px 0 0;
+	color:#FFF;
+	font-weight:bold;
+	font-size:17px;
+	text-align: center;
+	margin-bottom:15px;
+}
+
+.table_modulo {
+	margin-right: 5px;
+}
+
+.table_modulo td{
+	padding: 10px;
+}
+
+.box_parceiro {
+	margin: 5px;
+	border: 1px solid #0076c6;
+}
+
+.box_img {
+	float: left;
+	padding: 15px 15px 15px 5px;
+}
+
+.box_info {
+	padding: 5px;
+	font-size: 12px;
+}
+
+.box_title {
+	font-weight:bold;
+	color: #0076c6;
+	font-size: 16px;
+}
+

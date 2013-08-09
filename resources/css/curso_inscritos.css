@@ -1,0 +1,29 @@
+.perfil_container {
+	margin-top: 10px;
+	margin-left: 150px;	
+}
+
+#pessoais {
+	margin: 10px 0;
+	padding: 15px;
+	background: #f0f0f0;
+	height: 200px;
+	width: 600px;
+}
+
+.div_foto {
+	padding: 15px;
+	width: 100px;
+	height:100%;
+}
+
+.div_pessoais {
+	float: right;
+	margin-top: -230px;
+	width: 420px;
+	height: 100%;
+}
+
+.a_online {
+	color: #000;
+}

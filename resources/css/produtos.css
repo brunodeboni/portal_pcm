@@ -1,0 +1,46 @@
+.bigtitle{
+	display:block;
+	margin-bottom:50px;
+	color:#9BD;
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+}
+
+#produtos{
+	display:block;
+	width:550px;
+	margin:auto;
+}
+
+.produto{
+	display:inline-block;
+	width:230px;
+	margin:15px 10px;
+	padding:20px 10px;
+	background:#FAFAFA;
+}
+	.produto > img{
+		display:block;
+		margin:auto;
+		margin-bottom:20px;
+		width:170px;
+		height:230px;
+	}
+	
+	.produto_desc{
+		display:block;
+		font-size:12px;
+		text-align:center;
+	}
+		.produto_desc_title{
+			font-weight:bold;
+			font-size:16px;
+		}
+		
+		.produto_preco{
+			color:#393;
+			font-size:18px;
+			font-weight:bold;
+			margin-top:15px;
+		}

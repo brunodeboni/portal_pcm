@@ -1,0 +1,47 @@
+#contato {
+	margin-top: 10px;
+	margin-left: 10px;	
+}
+
+p {
+	font-size: 14px;
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+h1 {
+	font-size: 16px;
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+
+#contato_privado{
+	display:block;
+	margin:auto;
+	width:400px;
+	padding:20px;
+	box-shadow:0 0 5px 2px #CCC inset;
+}
+#copr_titulo{
+	display:block;
+	margin:-20px;
+	margin-bottom:20px;
+	padding:20px;
+	box-shadow:0 0 5px 2px #CCC inset;
+	background:#EEE;
+	font-weight:bold;
+}
+#copr_formulario{
+	display:block;
+}
+#copr_formulario label{
+	display:block;
+	padding-bottom:20px;
+}
+#copr_formulario label > input, #copr_formulario label > textarea{
+	display:block;
+	width:385px;
+	padding:5px;
+}
+#copr_formulario label > textarea{
+	height:200px;
+}

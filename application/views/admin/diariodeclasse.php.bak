@@ -1,0 +1,11 @@
+<?php echo View::factory('admin/curso_titulo',array('curso'=>$curso,'turma'=>$turma,'current'=>'diariodeclasse')); ?>
+
+<pre><?php print_r($diario); ?>
+
+<ul>
+	<?php
+		if(count($diario)): foreach($diario as $d){
+			
+		}; endif;
+	?>
+</ul>

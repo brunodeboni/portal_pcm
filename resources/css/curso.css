@@ -1,0 +1,60 @@
+@import url("curso_titulo.css");
+
+#indice_recursos{
+	display:block;
+	margin:20px auto;
+	padding:20px;
+	padding-left:50px;
+	width:700px;
+	background:#EEF;
+}
+
+.recurso_icon{
+	display:block;
+	margin:20px auto;
+	width:64px;
+	height:64px;
+}
+
+#curso_recursos{
+	display:block;
+	margin:30px 15px;
+	border:2px solid #EEF;
+	list-style:none;
+}
+
+#curso_recursos li{
+	display:block;
+	padding-bottom:35px;
+	font-size:14px;
+}
+
+.recurso_titulo{
+	display:block;
+	margin-bottom:15px;
+	padding:10px;
+	background:#EEF;
+	font-size:18px;
+	color:#333;
+}
+.recurso_left{
+	display:block;
+	float:left;
+	width:20%;
+}
+.recurso_right{
+	display:block;
+	float:right;
+	width:78%;
+}
+
+.recurso_ler{
+	display:inline-block;
+	margin:10px;
+	padding:5px 10px;
+	background:#EEF;
+	color:#000;
+	font-size:13px;
+	font-weight:bold;
+	
+}

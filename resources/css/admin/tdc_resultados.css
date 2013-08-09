@@ -1,0 +1,55 @@
+body{
+	font-size:13px;
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+}
+#testes{
+	display:block;
+	margin:auto;
+	width:90%;
+	min-width:400px;
+}
+.testetitulo{
+	background:#EEE;
+	padding:5px;
+	border:2px solid #AAA;
+	font-size:22px;
+	font-weight:bold;
+}
+.testedesc{
+	display:block;
+	padding:10px;
+	background:#FFF;
+	color:#333;
+	text-align:right;
+	font-size:18px;
+}
+
+.perguntas_container{
+	margin-bottom:20px;
+}
+.respostas_container{
+	display:none;
+}
+
+
+.resposta_container{
+	margin:1px 0;
+	padding:5px;
+}
+
+.apergunta{
+	margin-bottom:5px;
+	font-weight:bold;
+	font-size:14px;
+}
+
+.resposta_correta .aresposta{
+	color:#090;
+}
+.resposta_correta{
+	border:1px solid #090;
+}
+
+.resposta_errada{
+	color:#D99;
+}

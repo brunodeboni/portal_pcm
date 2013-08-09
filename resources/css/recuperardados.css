@@ -1,0 +1,11 @@
+.recoptable{
+	margin:auto;
+	width:450px;
+	margin-left:1px solid #369;
+	margin-right:1px solid #369;
+}.recoptable td{
+	padding:5px;
+}.rectxt{
+	padding:2px;
+	width:200px;
+}

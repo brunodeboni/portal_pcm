@@ -1,0 +1,58 @@
+#cursos_lista{
+	list-style:none;
+	display:block;
+	max-width:680px;
+	margin:auto;
+}
+.curso_container{
+	display:block;
+	padding-bottom:2px;
+}
+.curso_container a{
+	display:block;
+	background:#82BEDE;
+	text-decoration:none;
+	font-size:20px;
+	color:#FFF;
+}
+
+.curso_container a table{
+	width:100%;
+}
+
+.curso_content_1{
+	padding:10px;
+	background:#82BEDE;
+}
+.curso_content_2{
+	cursor:pointer;
+	padding-right:5%;
+	background:#629EBE;
+	width:28%;
+	color:#EEF;
+	text-align:right;
+}
+
+.curso_content_info{
+	margin-top:10px;
+	font-size:14px;
+	background:#BDF;
+	color:#777;
+}
+.curso_content_info ul{
+	list-style:none;
+}
+.curso_content_info li{
+	padding:10px;
+	padding-top:5px;
+}
+.ccititle{
+	font-weight:bold;
+}
+
+
+
+.curso_container a:hover .curso_content_1, .curso_container a:focus .curso_content_1{
+	background:#629EBE;
+}
+

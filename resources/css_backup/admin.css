@@ -1,0 +1,25 @@
+@import url("curso_titulo.css");
+
+.admc_container{
+	display:block;
+	border:1px solid #DDE;
+	font-size:14px;
+}
+.admc_title{
+	display:block;
+	padding:7px;
+	background:#DDE;
+}
+
+
+.admc_ul{
+	display:block;
+}
+.admc_ul > li{
+	display:block;
+}
+.admc_ul > li > a{
+	display:block;
+	padding:5px;
+	
+}

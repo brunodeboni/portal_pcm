@@ -1,0 +1,1 @@
+<span style="font-family:Arial, Tahoma, sans-serif; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<?php echo $inscritos;?> inscri&ccedil;&otilde;es realizadas<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; em <?php echo $turmas;?> turmas</span>

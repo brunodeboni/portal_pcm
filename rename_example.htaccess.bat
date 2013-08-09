@@ -1,0 +1,1 @@
+ren example.htaccess .htaccess

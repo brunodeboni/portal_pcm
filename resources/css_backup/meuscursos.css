@@ -1,0 +1,45 @@
+#lista_meuscursos{
+	display:block;
+	list-style:none;
+}
+#lista_meuscursos > li{
+	display:block;
+	margin-bottom:15px;
+}
+
+#lista_meuscursos .mc_table{
+	width:100%;
+	background:#EEF;
+	border:2px solid #CCD;
+}
+#lista_meuscursos .mc_inscrito{
+	vertical-align:middle;
+	width:20%;
+}
+#lista_meuscursos .mc_inscrito > a{
+	display:block;
+	color:#68A;
+	font-weight:bold;
+	font-size:14px;
+	text-align:center;
+}
+#lista_meuscursos .mc_content{
+	vertical-align:top;
+}
+#lista_meuscursos .mc_content > a{
+	display:block;
+	padding:5px;
+}
+
+.mc_info{
+	display:block;
+	margin:10px;
+	padding:10px;
+	background:#F7F7FF;
+	font-size:14px;
+}
+.mc_info_title{
+	display:inline-block;
+	font-weight:bold;
+	width:70px;
+}

@@ -1,0 +1,100 @@
+#inscricao_form input[type=text]{width:100%;}
+#inscricao_form input,#inscricao_form select{padding:5px;}
+#inscricao_form label{display:block;margin-bottom:5px;}
+#inscricao_form button{padding:8px 15px;font-size:16px;}
+
+
+
+.obrigatorio{font-weight:bold;color:#D00;font-size:20px;float:left;margin-right:5px;}
+
+.sp_title{
+	font-size:18px;
+}
+.radiolabel{
+	padding:5px;
+	cursor:pointer;
+	background:#EEF;
+}
+	.radiolabel table{
+		text-align:right;
+		width:100%;
+		font-family:Tahoma;
+		font-size:14px;
+	}
+		.ttcurso,.ttradio{
+			text-align:left;
+		}
+		.ttradio{
+			width:30px;
+		}
+			.ttradio > img{
+				width:16px;
+				height:16px;
+			}
+		.ttturno{
+			width:120px;
+		}
+		.ttdata{
+			width:100px;
+		}
+		.ttperiodo{
+			text-align:left;
+		}
+		.tthora{
+			width:120px;
+		}
+
+#curso_info{
+	margin:20px auto;
+	width:95%;
+	border:2px solid #EEF;
+	border-collapse:collapse;
+	font-size:14px;
+	line-height:18px;
+}
+#curso_info td{
+	vertical-align:top;
+	padding:10px;
+}
+#curso_info tr:nth-child(2n+1){
+	background:#EEF;
+}
+	.curso_info_c1{
+		width:160px;
+		font-weight:bold;
+	}
+	
+
+
+#curso_title{
+	display:block;
+	margin-bottom:15px;
+	padding:8px;
+	background:#629EBE;
+	color:#FFF;
+	text-align:center;
+	font-size:22px;
+}
+
+#erromsgs{
+	margin-bottom:15px;
+}
+.erro{
+	display:block;
+	margin-bottom:2px;
+	padding:5px;
+	background:#FEE;
+	color:#900;
+}
+
+
+.recurso_icon{
+	display:block;
+	margin:20px auto;
+	width:64px;
+	height:64px;
+}
+
+.div_img_insc { 
+	margin: 15px; 
+}
